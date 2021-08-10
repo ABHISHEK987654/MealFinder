@@ -1,1 +1,1 @@
-# MealFinderApp
+# MealFinder
